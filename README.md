@@ -1,9 +1,9 @@
 <div align="center">  
-  <a href="https://background-animation-halloween-1.netlify.app/" target="_blank">  
-    <img src=".docs/preview.png" alt="Aperçu du projet Halloween" />  
+  <a href="https://background-animation-halloween.netlify.app/" target="_blank">  
+    <img src=".docs/preview.png" alt="Aperçu de la page Halloween animée">  
   </a>  
   </br></br>  
-  <h3 align="center">🎃 Background Animation - Halloween 1</h3>  
+  <h3 align="center">🎃 Page Halloween Animée – Nuit Terrifiante</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,38 +15,47 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Projet d’animation interactive sur le thème d’Halloween, combinant un visuel immersif, des éléments animés via **GSAP**, et une navigation responsive. Le décor, les ombres et les éléments lunaires créent une ambiance parfaite pour la nuit du 31 octobre.
+Landing page immersive dédiée à Halloween avec animations GSAP, citrouilles, arbres et lune animés.
+
+Parfait pour événements saisonniers, pages thématiques ou promotions horrifiques.
+
+Une ambiance sombre et festive avec un bouton CTA effrayant et une structure responsive.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
 - HTML5 sémantique
-- CSS3 personnalisé (responsive + animations)
+- CSS3 moderne (keyframes, media queries, animations)
 - JavaScript ES6
-- [GSAP](https://greensock.com/gsap/)
-- [Remix Icons](https://remixicon.com/)
+- [GSAP](https://greensock.com/gsap/) pour les animations visuelles
+- Remix Icons pour les icônes vectorielles
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
-- Effets visuels animés avec **GSAP**
-- Interface 100% responsive
-- Menu mobile avec toggle et fermeture automatique
-- Détection du scroll pour changer l’apparence du header
-- Mise en page immersive avec images flottantes et calques
-- Bouton interactif avec visuel animé
+- Apparition animée de la lune, arbres, herbe, pierres et citrouille
+- Animation séquentielle fluide via GSAP
+- Menu responsive avec toggle mobile
+- Scroll header animé (ombre dynamique)
+- Design responsive toutes résolutions
+- Bouton interactif personnalisé (image + texte)
+- Ambiance graphique typique d’Halloween
+- Texte descriptif central et titres animés
 
 ## <br /> <a name="installation">🚀 Installation</a>
 
 ### ✅ Prérequis
 
-- Navigateur moderne (Chrome conseillé)
-- Un éditeur de code (VS Code)
+- [Google Chrome](https://www.google.com/) — Navigateur moderne
+- [Visual Studio Code](https://code.visualstudio.com/) — Éditeur de code
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) — Extension VS Code
 
 ### 📥 Cloner le projet
 
 ```bash
-git clone https://github.com/ValentinMadiot/background-animation-halloween-1_js.git
+git clone https://github.com/ValentinMadiot/background-animation-halloween_js
+cd background-animation-halloween_js
 ```
 
-### ▶️ Lancer localement
+### ▶️ Lancer le projet
 
-Ouvre simplement le fichier `index.html` dans ton navigateur, ou utilise l’extension **Live Server** dans VS Code pour un rechargement automatique.
+Ouvre le fichier `index.html` dans ton navigateur,  
+ou utilise l’extension **Live Server** pour une prévisualisation en temps réel.
