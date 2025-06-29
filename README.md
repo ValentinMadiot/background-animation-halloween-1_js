@@ -1,9 +1,9 @@
 <div align="center">  
-  <a href="https://background-animation-halloween.netlify.app/" target="_blank">  
+  <a href="https://background-animation-halloween-1.netlify.app/" target="_blank">  
     <img src=".docs/preview.png" alt="Aperçu de la page Halloween animée">  
   </a>  
   </br></br>  
-  <h3 align="center">🎃 Page Halloween Animée – Nuit Terrifiante</h3>  
+  <h3 align="center">🕸️ Animation de Fond &nbsp;–&nbsp; Halloween 1</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,28 +15,26 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Landing page immersive dédiée à Halloween avec animations GSAP, citrouilles, arbres et lune animés.
+Landing page immersive sur le thème d’Halloween, animée avec **GSAP**. Citrouilles, arbres et lune en mouvement créent une atmosphère sombre et captivante.
 
-Parfait pour événements saisonniers, pages thématiques ou promotions horrifiques.
-
-Une ambiance sombre et festive avec un bouton CTA effrayant et une structure responsive.
+Idéale pour des événements saisonniers, promotions à thème ou pages dédiées à l’univers de l’horreur, elle mêle animations visuelles, bouton d’appel à l’action effrayant et design 100 % responsive.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 sémantique
-- CSS3 moderne (keyframes, media queries, animations)
-- JavaScript ES6
-- [GSAP](https://greensock.com/gsap/) pour les animations visuelles
-- Remix Icons pour les icônes vectorielles
+- HTML5 sémantique et accessible
+- CSS3 moderne avec variables, media queries et animations
+- JavaScript ES6 clair et modulaire
+- [GSAP](https://greensock.com/gsap/) pour les animations fluides
+- [Remix Icons](https://remixicon.com/) pour les icônes vectorielles
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
 - Apparition animée de la lune, arbres, herbe, pierres et citrouille
 - Animation séquentielle fluide via GSAP
-- Menu responsive avec toggle mobile
-- Scroll header animé (ombre dynamique)
+- Navigation fluide avec menu responsive
+- Scroll header animé via une ombre dynamique
 - Design responsive toutes résolutions
-- Bouton interactif personnalisé (image + texte)
+- Bouton interactif personnalisé image et texte
 - Ambiance graphique typique d’Halloween
 - Texte descriptif central et titres animés
 
